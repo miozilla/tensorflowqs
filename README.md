@@ -1,4 +1,4 @@
-# tensorflowqs
+# tensorflowqs 🔠
 tensorflowqs # tensorflow #vertex ai
 
 ## Objective 
